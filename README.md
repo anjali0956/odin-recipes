@@ -1,5 +1,2 @@
 # odin-recipes
-Hello 
-Odin-recipes 
-says
-Howdy !!!
+A minimalistic website, that showcases different recipes.
