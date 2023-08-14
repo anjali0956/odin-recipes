@@ -2,7 +2,7 @@
 {
     color:lightsalmon;
 }
-h2
+h2,h3
 {
     font-weight: bold;
     background-color: cyan;
@@ -10,10 +10,6 @@ h2
 h1
 {
 background-color: darkslateblue;
-}
-.ing
-{
-    background-color: darkslateblue;
 }
 .donut,
 .cake,
@@ -35,4 +31,23 @@ text-align: center;
 p,ol,ul{
     border-style: solid;
     border-radius: 13px;
+    margin: 15px;
+}
+.imgd{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}/*centered images without container div */
+.imgc{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 200px;
+}
+.imgj{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 170px;
 }
