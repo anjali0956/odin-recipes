@@ -1,0 +1,38 @@
+.donut,.cake,.juice
+{
+    color:lightsalmon;
+}
+h2
+{
+    font-weight: bold;
+    background-color: cyan;
+}
+h1
+{
+background-color: darkslateblue;
+}
+.ing
+{
+    background-color: darkslateblue;
+}
+.donut,
+.cake,
+.juice{
+text-align: center;
+}
+.body
+{
+    background-color:silver;
+}
+.landing{
+    text-align: center;
+    color: lightcoral;
+    background-color: black;
+}
+.bodyland{
+    background-color:lightslategray;
+}
+p,ol,ul{
+    border-style: solid;
+    border-radius: 13px;
+}
